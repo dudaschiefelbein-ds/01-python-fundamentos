@@ -1,0 +1,17 @@
+[
+    {
+        "Nome": "Eduarda",
+        "Telefone": "(61) 98775-4321",
+        "Endereco": "ABC"
+    },
+    {
+        "Nome": "Maria",
+        "Telefone": "(62) 98765-4021",
+        "Endereco": "DEF"
+    },
+    {
+        "Nome": "Joao",
+        "Telefone": "(63) 98765-2020",
+        "Endereco": "AAAB"
+    }
+]
